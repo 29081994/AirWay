@@ -20,8 +20,8 @@ public class AirIndiaBaggage extends CheckBooking {
 	public void Linkscount() {
 	
 		
-		By count=By.cssSelector("div#ContentPlaceHolder1_UserLeftMiddleMenuNew1_Label1");
-	    System.out.println(count.findElement((SearchContext) By.tagName("a")).getSize());
+		//By count=By.cssSelector("div#ContentPlaceHolder1_UserLeftMiddleMenuNew1_Label1");
+	   
 		
 	    
 	}
