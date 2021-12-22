@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 93.989 s <<< FAILURE! - in TestSuite
+com.mayu.Airways.CheckBooking.BrowserInitializatipon  Time elapsed: 85.59 s  <<< FAILURE!
+java.lang.ClassCastException: class org.openqa.selenium.By$ByTagName cannot be cast to class org.openqa.selenium.SearchContext (org.openqa.selenium.By$ByTagName and org.openqa.selenium.SearchContext are in unnamed module of loader 'app')
+	at com.mayu.Airways.CheckBooking.BrowserInitializatipon(CheckBooking.java:39)
+
