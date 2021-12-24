@@ -7,7 +7,7 @@ import org.openqa.selenium.SearchContext;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class AirIndiaBaggage extends CheckBooking {
+public class AirIndiaBaggage extends base {
 
 	
 	WebDriver driver;

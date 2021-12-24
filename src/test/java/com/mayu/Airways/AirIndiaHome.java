@@ -8,7 +8,7 @@ import org.testng.annotations.BeforeSuite;
 
 
 
-public class AirIndiaHome extends CheckBooking {
+public class AirIndiaHome extends base{
 
 	WebDriver driver;
 	
